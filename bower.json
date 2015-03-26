@@ -1,0 +1,26 @@
+{
+  "name": "primer01",
+  "version": "0.0.0",
+  "authors": [
+    "biljanaManeva <biljana.maneva93@gmail.com>"
+  ],
+  "description": "autcomplete exercise",
+  "main": "main.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
